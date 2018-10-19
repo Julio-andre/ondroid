@@ -1,0 +1,24 @@
+body {
+    margin:0
+}
+
+header {
+    background:#000000bd;
+    text-align: center
+}
+
+.logo {
+    color:#ffffff;
+    font-size: 40px;
+    font-family:'Anton', sans-serif;
+    text-align:'center'
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px
+}
+
+.news_item {
+    background: red
+}
